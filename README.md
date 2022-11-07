@@ -11,7 +11,7 @@ Change configuration in ``prometheus/prometheus.yml`` for your targets.
 
 ### Step 2: Build configuration
 
-Install make.
+Install make in your host machine.
 
 Build configuraion with command ``make build``.
 
